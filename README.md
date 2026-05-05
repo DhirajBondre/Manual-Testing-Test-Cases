@@ -13,16 +13,16 @@ The test cases are designed in a professional QA format and include:
 <img width="1920" height="1080" alt="Screenshot (462)" src="https://github.com/user-attachments/assets/1638e5c6-38f4-43a4-9d88-9a1171df6fa1" />
 
 # Test Case ID
-Feature / Module Name
-Test Scenario
-Test Steps
-Test Data
-Expected Result
-Actual Result
-Priority Level (P1 / P2 / P3)
-Status (Pass / Fail)
-Remarks / Observations
-Features Tested
+Feature / Module Name, 
+Test Scenario, 
+Test Steps, 
+Test Data, 
+Expected Result, 
+Actual Result, 
+Priority Level (P1 / P2 / P3), 
+Status (Pass / Fail), 
+Remarks / Observations, 
+Features Tested, 
 
 # The following flight booking functionalities were tested:
 
@@ -48,20 +48,20 @@ Verify calendar opens correctly.
 Ensure only today’s date and future dates are selectable.
 Validate past dates are disabled.
 # 6. Passenger Selection
-Validate Adults count
-Maximum: 9
+# Validate Adults count, 
+Maximum: 9 
 Default: 1
-Validate Children count
+# Validate Children count
 Maximum: 6
 Default: 0
-Validate Infants count
+# Validate Infants count
 Maximum: 6
 Default: 0
 # 7. Travel Class Selection
 Verify available class options:
-Economy Class (EC)
-Premium Economy (PE)
-Business Class
+Economy Class (EC), 
+Premium Economy (PE), 
+Business Class, 
 First Class
 # 8. Flight Search Functionality
 Validate Search button action.
@@ -71,26 +71,26 @@ Testing Approach
 
 # This project follows Manual Functional Testing methodology:
 
-Requirement Analysis
-Test Scenario Creation
-Test Case Design
-Test Execution
-Bug Identification
-Result Documentation
-Tools Used
-Microsoft Excel – Test Case Documentation
-Web Browser – Application Testing
-Manual Testing Techniques – Functional Validation
-Outcome
+Requirement Analysis, 
+Test Scenario Creation, 
+Test Case Design, 
+Test Execution, 
+Bug Identification, 
+Result Documentation, 
+Tools Used, 
+Microsoft Excel – Test Case Documentation, 
+Web Browser – Application Testing, 
+Manual Testing Techniques – Functional Validation, 
+Outcome, 
 Multiple test cases executed successfully (Pass).
 One functional mismatch identified (Fail) in travel class options validation.
-Helped in understanding:
-Test Case Writing
-Functional Testing
-UI Validation
-Bug Reporting
-QA Documentation Standards
-Author
+# Helped in understanding:
+Test Case Writing, 
+Functional Testing, 
+UI Validation, 
+Bug Reporting, 
+QA Documentation Standards, 
+# Author
 
 Dhiraj Bondre
 Manual Testing Project – QA Documentation & Test Execution
